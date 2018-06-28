@@ -1,0 +1,450 @@
+{
+    "farms": [
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            73.90537262,
+            18.48026029
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "farm_latitude": 18.48026029,
+          "permission": true,
+          "farm_longitude": 73.90537262,
+          "farm_name": "Karan's Farm",
+          "farm_slug": "f5d24a37-db8e-4e47-a427-d55f46eb5700",
+          "team_id": 2379,
+          "farm_location": "Pune",
+          "ownership": true,
+          "location_slug": "ce07651d-59b2-4c65-b764-80e62adaa78d"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            74.21110153,
+            16.69730551
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "farm_latitude": 16.69730551,
+          "permission": true,
+          "farm_longitude": 74.21110153,
+          "farm_name": "Rutvik Farm1",
+          "farm_slug": "fc71981b-dd64-41ba-8a80-39989cc68214",
+          "team_id": 2379,
+          "farm_location": "Kolhapur",
+          "ownership": true,
+          "location_slug": "70dde446-b854-4ac1-b0fd-fca600742599"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            73.92594516,
+            18.51439088
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "farm_latitude": 18.51439088,
+          "permission": true,
+          "farm_longitude": 73.92594516,
+          "farm_name": "Sugarcane",
+          "farm_slug": "eb8043d7-1af7-4240-af26-7eb11f38acf7",
+          "team_id": 2379,
+          "farm_location": "Pune",
+          "ownership": true,
+          "location_slug": "2a134736-6819-42d6-8c14-6912b5f905c0"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            73.98568869,
+            18.50555492
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "farm_latitude": 18.50555492,
+          "permission": true,
+          "farm_longitude": 73.98568869,
+          "farm_name": "Viveks Farm",
+          "farm_slug": "b607e0c7-95db-4b11-be79-f59017bb625e",
+          "team_id": 2379,
+          "farm_location": "Pune",
+          "ownership": true,
+          "location_slug": "3dc12e81-8276-4a01-bf27-ebad9f099f13"
+        }
+      }
+    ],
+    "fields": [
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.9815902709961,
+                18.50795598806841
+              ],
+              [
+                73.98119330406189,
+                18.50296051249623
+              ],
+              [
+                73.9933168888092,
+                18.50278755044598
+              ],
+              [
+                73.99309158325195,
+                18.5075083342896
+              ],
+              [
+                73.9815902709961,
+                18.50795598806841
+              ]
+            ]
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "permission": true,
+          "soil_type": "Loam",
+          "field_id": 2370,
+          "farm_slug": "b607e0c7-95db-4b11-be79-f59017bb625e",
+          "team_id": 2379,
+          "ownership": true,
+          "team_name": "MobileTeam3",
+          "location_slug": "df5c5120-f475-4eeb-b68b-5c2a7d6fc657",
+          "field_area": 67.4677,
+          "farm_name": "Viveks Farm",
+          "field_name": "Daga",
+          "notes": null,
+          "field_longitude": 73.98729801,
+          "field_slug": "aecd5d6a-d745-4d51-875f-4cdf55d8d032",
+          "workable_area": 67.4677,
+          "field_latitude": 18.5053031
+        }
+      },
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.92593443393707,
+                18.514375621413496
+              ],
+              [
+                73.92598807811737,
+                18.514121282360463
+              ],
+              [
+                73.92604172229767,
+                18.514009373057352
+              ],
+              [
+                73.92615973949431,
+                18.51394833158843
+              ],
+              [
+                73.92627775669098,
+                18.51392289763663
+              ],
+              [
+                73.92642796039581,
+                18.514029720208807
+              ],
+              [
+                73.92647087574005,
+                18.51407550129076
+              ],
+              [
+                73.92642259597777,
+                18.513953418378343
+              ],
+              [
+                73.9264816045761,
+                18.513887290097752
+              ],
+              [
+                73.92653524875641,
+                18.513805901409615
+              ],
+              [
+                73.92665326595306,
+                18.513775380641594
+              ],
+              [
+                73.92686784267426,
+                18.513775380641594
+              ],
+              [
+                73.92706096172333,
+                18.513775380641594
+              ],
+              [
+                73.92718970775604,
+                18.513775380641594
+              ],
+              [
+                73.92722725868224,
+                18.513836422172194
+              ],
+              [
+                73.92727553844452,
+                18.513861856136867
+              ],
+              [
+                73.92731845378876,
+                18.51390255047247
+              ],
+              [
+                73.92725944519043,
+                18.513999199480704
+              ],
+              [
+                73.92724335193634,
+                18.514095848434362
+              ],
+              [
+                73.9272540807724,
+                18.514212844463103
+              ],
+              [
+                73.9272540807724,
+                18.51428914617788
+              ],
+              [
+                73.92721116542816,
+                18.51440614207446
+              ],
+              [
+                73.92711997032166,
+                18.514477356928843
+              ],
+              [
+                73.92696976661682,
+                18.514528224663845
+              ],
+              [
+                73.92664790153503,
+                18.514635046858107
+              ],
+              [
+                73.92650842666626,
+                18.514670654241367
+              ],
+              [
+                73.92640113830565,
+                18.514670654241367
+              ],
+              [
+                73.92611145973206,
+                18.51453331143651
+              ],
+              [
+                73.92591297626495,
+                18.51442648917874
+              ],
+              [
+                73.92593443393707,
+                18.514375621413496
+              ]
+            ]
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "permission": true,
+          "soil_type": "Clay Loam",
+          "field_id": 2029,
+          "farm_slug": "eb8043d7-1af7-4240-af26-7eb11f38acf7",
+          "team_id": 2379,
+          "ownership": true,
+          "team_name": "MobileTeam3",
+          "location_slug": "952c8092-06d2-4d5f-832b-41e2b53516d3",
+          "field_area": 1.0707,
+          "farm_name": "Sugarcane",
+          "field_name": "Field 1",
+          "notes": null,
+          "field_longitude": 73.92669748,
+          "field_slug": "eb670008-8a19-4aee-ba1e-62215a443c84",
+          "workable_area": 1.0707,
+          "field_latitude": 18.51413023
+        }
+      },
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.20909523963928,
+                16.697952921492984
+              ],
+              [
+                74.20989990234375,
+                16.698086515044924
+              ],
+              [
+                74.21024322509766,
+                16.696843063756535
+              ],
+              [
+                74.20966923236847,
+                16.69676599006315
+              ],
+              [
+                74.20933127403259,
+                16.69682764902034
+              ],
+              [
+                74.20918643474579,
+                16.697315781728992
+              ],
+              [
+                74.20909523963928,
+                16.697952921492984
+              ]
+            ]
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "permission": true,
+          "soil_type": "Clay",
+          "field_id": 2064,
+          "farm_slug": "fc71981b-dd64-41ba-8a80-39989cc68214",
+          "team_id": 2379,
+          "ownership": true,
+          "team_name": "MobileTeam3",
+          "location_slug": "801b4eae-c065-4dbe-ad32-8c3bb229cb95",
+          "field_area": 1.297,
+          "farm_name": "Rutvik Farm1",
+          "field_name": "sugarcane_field1",
+          "notes": null,
+          "field_longitude": 74.20957088,
+          "field_slug": "22f9fa10-37c6-4f92-bed8-71c0dd05a4a9",
+          "workable_area": 1.297,
+          "field_latitude": 16.69729865
+        }
+      },
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                74.20734107494353,
+                16.697726839884513
+              ],
+              [
+                74.20747518539429,
+                16.695789720588536
+              ],
+              [
+                74.20941174030304,
+                16.69605691062486
+              ],
+              [
+                74.20905768871307,
+                16.697958059708245
+              ],
+              [
+                74.20734107494353,
+                16.697726839884513
+              ]
+            ]
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "permission": true,
+          "soil_type": "Loam",
+          "field_id": 2065,
+          "farm_slug": "fc71981b-dd64-41ba-8a80-39989cc68214",
+          "team_id": 2379,
+          "ownership": true,
+          "team_name": "MobileTeam3",
+          "location_slug": "6d9069f4-2808-4346-b93d-c8fabcbf5082",
+          "field_area": 4.233,
+          "farm_name": "Rutvik Farm1",
+          "field_name": "SweetBeat_Field2",
+          "notes": null,
+          "field_longitude": 74.20832142,
+          "field_slug": "b6b335ee-7f45-432b-be9a-d0fdd64b51f0",
+          "workable_area": 4.233,
+          "field_latitude": 16.69688288
+        }
+      },
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                73.90584468841553,
+                18.484228725038044
+              ],
+              [
+                73.90700340270995,
+                18.4785100853562
+              ],
+              [
+                73.91998529434204,
+                18.479486948349194
+              ],
+              [
+                73.92198085784912,
+                18.487810409303442
+              ],
+              [
+                73.916916847229,
+                18.49240950772326
+              ],
+              [
+                73.90801191329955,
+                18.491921113750028
+              ],
+              [
+                73.90372037887572,
+                18.490618723014677
+              ],
+              [
+                73.90584468841553,
+                18.484228725038044
+              ]
+            ]
+          ]
+        },
+        "type": "Feature",
+        "properties": {
+          "permission": true,
+          "soil_type": "Loam",
+          "field_id": 3189,
+          "farm_slug": "f5d24a37-db8e-4e47-a427-d55f46eb5700",
+          "team_id": 2379,
+          "ownership": true,
+          "team_name": "MobileTeam3",
+          "location_slug": "ad71d456-1b98-4a6d-9e47-e2d3437ea8f8",
+          "field_area": 230.6532,
+          "farm_name": "Karan's Farm",
+          "field_name": "Wanowrie",
+          "notes": null,
+          "field_longitude": 73.91192334,
+          "field_slug": "b03003c5-32be-4e8c-af27-32c9ce6b0cc9",
+          "workable_area": 230.6532,
+          "field_latitude": 18.4864265
+        }
+      }
+    ]
+  }

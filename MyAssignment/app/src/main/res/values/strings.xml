@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyAssignment</string>
+    <string name="btn_label">View</string>
+    <string name="btn_climates">Climates</string>
+    <string name="btn_map">Map</string>
+    <string name="title_main">Main Menu</string>
+    <string name="title_Climates">Climates</string>
+    <string name="title_Map">Map</string>
+    <string-array name="region">
+        <item>Select region</item>
+        <item>UK</item>
+        <item>England</item>
+        <item>Wales</item>
+        <item>Scotland</item>
+    </string-array>
+
+    <string-array name="parameters">
+        <item>Select parameter</item>
+        <item>Tmax</item>
+        <item>Tmin</item>
+        <item>Sunshine</item>
+        <item>Rainfall</item>
+    </string-array>
+
+</resources>
